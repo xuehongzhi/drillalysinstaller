@@ -1,0 +1,5 @@
+install=yes
+majorversion=0
+minorversion=8
+stepversion=3
+destpath="F:\°²×°°ü\"
